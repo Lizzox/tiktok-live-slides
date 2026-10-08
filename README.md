@@ -1,6 +1,6 @@
 GiftSlide für TikTok LIVE Studio
 
-Online für dich und deinen Kollegen:
+Online:
 1. Neues öffentliches Repository auf github.com erstellen.
 2. index.html, overlay.html und Ordner assets/ hochladen.
 3. Settings > Pages > Deploy from a branch > main / (root) > Save.
